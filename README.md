@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2 align="left">Hi 👋! My name is Avishkar Zende and I'm a Pune,Maharashtra </h2>
+<h2 align="left">Hi 👋! My name is Avishkar Zende and I'm From Pune,Maharashtra </h2>
 
 ###
 
@@ -45,8 +45,6 @@
 ###
 
 <br clear="both">
-/*
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-*/
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 ###
